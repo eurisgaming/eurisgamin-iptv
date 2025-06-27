@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="3ABNLatino.us" tvg-logo="https://i.imgur.com/If6rCuD.png" group-title="Religious",3ABN Latino
+https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="13C.cl" tvg-logo="https://i.ibb.co/3fbvkZ3/13cultura.png" group-title="General",13C (1080p)
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+
+#EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="General",13Max Televisión (1080p)
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="13T.cl" tvg-logo="https://i.imgur.com/Agtfbfi.png" group-title="Series",13 Teleseries (720p)
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+
+#EXTINF:-1 tvg-id="15TV.mx@SD" tvg-logo="https://i.imgur.com/CZ8LKmA.png" group-title="General",15TV
+https://cdn.fastocloud.com/leonel.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",¡HOLA! Play (1080p)
+https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
+
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-logo="https://i.imgur.com/TpCkbkT.png" group-title="Sports",ACCN (720p)
+https://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="News",ADN 40 (720p)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="Documentary",History 2 Latin America
+https://live2.saohgdasregions.fun:9091/50_/tracks-v1a1/mono.m3u8?remote=100.10.82.57&token=6ea48f89ebc331102932913f8f962aa630cb7d7b-a149cdae6232221873b38b1199c1434e-1751032868-1751011268
+
+#EXTINF:-1 tvg-id="CARTOONNETWORK.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="General",CARTOON NETWORK
+https://live2.saohgdasregions.fun:9091/114_/tracks-v1a1/mono.m3u8?remote=100.10.82.57&token=85a5aee46d36ea5d5116ce9a67d4db41172931e5-394a83c769acb740b77c4e28a4acd77c-1751014871-1750993271
+
+
+#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Sports",TUDN
+https://deportes2.ksdjugfsddeports.fun:9091/1_/mono.m3u8?token=1ee90fc9c85fb4f2f9d82f29a9cabddecd47c012-1751008576
